@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Maksym\source\repos\Solution1\Calculator\Source.cpp(26,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maksym\source\repos\Solution1\Calculator\Source.cpp(43,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maksym\source\repos\Solution1\Calculator\Source.cpp(65,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Calculator.vcxproj -> C:\Users\Maksym\source\repos\Solution1\x64\Debug\Calculator.exe
